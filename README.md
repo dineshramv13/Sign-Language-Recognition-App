@@ -73,15 +73,15 @@ Sign language is a vital communication tool for the hearing- and speech-impaired
 ```plaintext
 .
 ├── data/
-│   ├── A/         # Subfolder for letter 'A' with image data
-│   ├── B/         # Subfolder for letter 'B' with image data
-│   └── ...        # Subfolders for other ASL letters
-├── app.py         # Streamlit-based main application
-├── model.p        # Saved Random Forest model and label map
-├── data.pickle    # Saved preprocessed data and labels
-├── logs/          # Directory for storing logs
-│   └── logger.py  # Logging utility for error tracking
-└── README.md      # Project documentation
+│   ├── A/         
+│   ├── B/         
+│   └── ...        
+├── app.py         
+├── model.p        
+├── data.pickle    
+├── logs/          
+│   └── logger.py  
+└── README.md      
 ```
 
 
